@@ -30,6 +30,10 @@ Vertical stack on the axle is now:
      0.64mm 3d printed bottom shim
      5.00mm axle bearing
 
+rotor bearing stack as printed:21.1mm
+model z height for the rotor stack: 23.22mm
+
+
 -=-=-=-
 SuperSlicer settings I used:
 
